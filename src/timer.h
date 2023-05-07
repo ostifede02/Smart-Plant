@@ -1,0 +1,8 @@
+#ifndef LOCAL_TIME
+#define LOCAL_TIME
+
+#define TIMER_INTERVALL_MILLIS 5000
+#define ALLERT_DELAY 200
+
+
+#endif
